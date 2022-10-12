@@ -1,0 +1,4 @@
+#Sat Aug 20 15:45:05 UZT 2022
+base.0=/Users/akromsmacbbok/Desktop/restaurant/restaurant/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
